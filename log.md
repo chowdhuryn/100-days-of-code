@@ -1,22 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: April 22, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: MinWindowSubstring problem on python.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** A code snippet from OUtco. Interesting problem. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Minimum windows substring](https://replit.com/@chowdhuryn/DisguisedMenacingAngles-1#main.py)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 0: April  21, 2021 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Minimum steps to reach 1.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Interesting problem. Given a number, you need to count the number of steps to reach 1. In each step, you can either divide by 3 or divide by 2 or subtract 1. Among all the possibilities, you need to take the path with minimum numbers. It can be done by simple recursion. Memoization/tabulation can be done to calculate larger numbers/reduce time complexities. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Minimum steps to reach one](https://onecompiler.com/javascript/3wvax7mq5)
 
 
 ### Day 1: June 27, Monday
