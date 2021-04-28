@@ -25,3 +25,30 @@
 
 **Link(s) to work**
 1. [Getting More Advanced with Design: Tea Cozy](https://github.com/chowdhuryn/Codeacademy/tree/main/projects/Tea%20Cozy)
+
+### Day 3/4: April 24/25, 2021
+
+**Today's Progress**: Weekend
+
+**Thoughts** Laziness
+
+**Link(s) to work**
+nothing
+
+### Day 5: April 26, 2021
+
+**Today's Progress**: updates to the body section for the Tea Cozy
+
+**Thoughts** Figuring out where & how to place the CSS elements is getting tricky: lots of trials and errors. I don't quite like this process; doing this via hand is one thing, but doing it via third-party code, where things are not directly manipulated is another.
+
+**Link(s) to work**
+1. [Getting More Advanced with Design: Tea Cozy](https://github.com/chowdhuryn/Codeacademy/tree/main/projects/Tea%20Cozy)
+
+### Day 6: April 27, 2021
+
+**Today's Progress**: The Tea Cozy is nearly complete in its skeleton form; pehaps a couple bones are misaligned!
+
+**Thoughts** Same thougts from day 6. I can place all the bones in their correct places -- no doubt about that, but hate doing it in a roundabout way. I need to wrap this up quickly & get back to "coding coding". If I were to draw this via hand, it would've taken 5-10 mins at most; I'm not liking wasting time at doing something so simple in idea for ... 
+
+**Link(s) to work**
+1. [Getting More Advanced with Design: Tea Cozy](https://github.com/chowdhuryn/Codeacademy/tree/main/projects/Tea%20Cozy)
